@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79603025-4992-4fea-8938-8ba2a92228cc" name="Default Changelist" comment="" />
+    <list default="true" id="79603025-4992-4fea-8938-8ba2a92228cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/foodsharing_bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/foodsharing_bot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1dY0ZmWhU5xiws1hMO8ewuD7ZEr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +31,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -47,10 +58,22 @@
       <option name="presentableId" value="Default" />
       <updated>1592586776616</updated>
       <workItem from="1592586779249" duration="66000" />
+      <workItem from="1592587199875" duration="890000" />
+      <workItem from="1592588104169" duration="289000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1592587973918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/1920.59.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1592587973918" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1592588323147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/1920.59.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1592588323147" />
   </component>
 </project>
